@@ -1,0 +1,8 @@
+user: bob
+password: whatever
+
+user: root
+passowrd: toor
+
+user: amy
+password: P@ssw0rd!
